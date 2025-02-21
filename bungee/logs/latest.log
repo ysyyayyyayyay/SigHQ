@@ -95,3 +95,6 @@
 [14:36:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45180]: Logged in as '7_ounces'
 [14:36:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:45180|7_ounces] -> UpstreamBridge has connected
 [14:36:24] [Netty Worker IO Thread #0/INFO]: [7_ounces|/[0:0:0:0:0:0:0:1%0]:45180] <-> ServerConnector [lobby] has connected
+[14:40:16] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:43330|ysyyayyyayya] -> UpstreamBridge has disconnected
+[14:40:16] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya] disconnected with: Proxy lost connection to server.
+[14:40:16] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:43330|ysyyayyyayya] <-> DownstreamBridge <-> [lobby] has disconnected
