@@ -377,3 +377,55 @@ Caused by: java.lang.ClassNotFoundException: com.earth2me.essentials.IEssentials
 
 [17:02:56] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[17:03:25] [Thread-9/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:03:25] [Thread-8/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[17:03:25] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:54614] logged in with entity id 765 at ([world]-86.00938600161429, 73.47442469744705, 351.431802137368)
+[17:03:25] [Server thread/INFO]: pang69420[/[0:0:0:0:0:0:0:1]:54626] logged in with entity id 766 at ([world]83.74959750825458, 67.0, -2169.718318849722)
+[17:03:50] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[17:03:50] [Server thread/INFO]: ysyyayyyayya left the game.
+[17:03:53] [Thread-10/INFO]: UUID of player shmewy is 6bbfd62a-11c5-3ebe-af17-977c16173e90
+[17:03:53] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:59098] logged in with entity id 880 at ([world]-86.13317867708707, 21.0, 677.9992294154549)
+[17:03:54] [Thread-11/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:03:54] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:56368] logged in with entity id 999 at ([world]-86.00938600161429, 73.47442469744705, 351.431802137368)
+[17:03:55] [Server thread/INFO]: [AuthMe] Set pang69420 to gamemode: SURVIVAL
+[17:03:55] [Server thread/INFO]: pang69420 lost connection: §fLogin Timeout
+[17:03:55] [Server thread/INFO]: pang69420 left the game.
+[17:03:55] [Server thread/WARN]: handleDisconnection() called twice
+[17:03:58] [Thread-12/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[17:03:58] [Server thread/INFO]: pang69420[/[0:0:0:0:0:0:0:1]:56380] logged in with entity id 1039 at ([world]83.74959750825458, 67.0, -2169.718318849722)
+[17:04:23] [Server thread/INFO]: [AuthMe] Set shmewy to gamemode: SURVIVAL
+[17:04:23] [Server thread/INFO]: shmewy lost connection: §fLogin Timeout
+[17:04:23] [Server thread/INFO]: shmewy left the game.
+[17:04:23] [Server thread/WARN]: handleDisconnection() called twice
+[17:04:24] [Server thread/INFO]: [AuthMe] Set ysyyayyyayya to gamemode: CREATIVE
+[17:04:24] [Server thread/INFO]: ysyyayyyayya lost connection: §fLogin Timeout
+[17:04:24] [Server thread/INFO]: ysyyayyyayya left the game.
+[17:04:24] [Server thread/WARN]: handleDisconnection() called twice
+[17:04:27] [Thread-13/INFO]: UUID of player shmewy is 6bbfd62a-11c5-3ebe-af17-977c16173e90
+[17:04:27] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:36678] logged in with entity id 1171 at ([world]-86.13317867708707, 21.0, 677.9992294154549)
+[17:04:28] [Server thread/INFO]: [AuthMe] Set pang69420 to gamemode: SURVIVAL
+[17:04:28] [Server thread/INFO]: pang69420 lost connection: §fLogin Timeout
+[17:04:28] [Server thread/INFO]: pang69420 left the game.
+[17:04:28] [Server thread/WARN]: handleDisconnection() called twice
+[17:04:28] [Thread-14/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:04:28] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:36692] logged in with entity id 1290 at ([world]-86.00938600161429, 73.47442469744705, 351.431802137368)
+[17:04:32] [Thread-15/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[17:04:32] [Server thread/INFO]: pang69420[/[0:0:0:0:0:0:0:1]:36702] logged in with entity id 1352 at ([world]83.74959750825458, 67.0, -2169.718318849722)
+[17:04:42] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[17:04:57] [Server thread/INFO]: [AuthMe] Set shmewy to gamemode: SURVIVAL
+[17:04:57] [Server thread/INFO]: shmewy lost connection: §fLogin Timeout
+[17:04:57] [Server thread/INFO]: shmewy left the game.
+[17:04:57] [Server thread/WARN]: handleDisconnection() called twice
+[17:04:58] [Server thread/INFO]: [AuthMe] Set ysyyayyyayya to gamemode: CREATIVE
+[17:04:58] [Server thread/INFO]: ysyyayyyayya lost connection: §fLogin Timeout
+[17:04:58] [Server thread/INFO]: ysyyayyyayya left the game.
+[17:04:58] [Server thread/WARN]: handleDisconnection() called twice
+[17:04:59] [Server thread/INFO]: pang69420 lost connection: Disconnected
+[17:04:59] [Server thread/INFO]: pang69420 left the game.
+[17:08:03] [Thread-17/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[17:08:03] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:49360] logged in with entity id 1415 at ([world]-86.00938600161429, 73.47442469744705, 351.431802137368)
+[17:08:25] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
+[17:08:33] [Server thread/INFO]: [AuthMe] Set ysyyayyyayya to gamemode: CREATIVE
+[17:08:33] [Server thread/INFO]: ysyyayyyayya lost connection: §fLogin Timeout
+[17:08:33] [Server thread/INFO]: ysyyayyyayya left the game.
+[17:08:33] [Server thread/WARN]: handleDisconnection() called twice
