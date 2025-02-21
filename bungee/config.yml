@@ -1,8 +1,8 @@
 server_connect_timeout: 5000
 enforce_secure_profile: false
-remote_ping_cache: -1
 forge_support: true
 player_limit: -1
+ip_forward: true
 permissions:
   default:
   - bungeecord.command.server
@@ -15,9 +15,8 @@ permissions:
   - bungeecord.command.kick
 timeout: 30000
 log_commands: false
+network_compression_threshold: 256
 online_mode: false
-disabled_commands:
-- disabledcommandhere
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
@@ -39,13 +38,14 @@ listeners:
   max_players: 1
   tab_size: 60
   force_default_server: true
+log_pings: true
+disabled_commands:
+- disabledcommandhere
 remote_ping_timeout: 5000
-ip_forward: true
-network_compression_threshold: 256
 reject_transfers: false
-prevent_proxy_connections: false
-groups: {}
+remote_ping_cache: -1
 connection_throttle: 4000
 stats: 614623bd-e602-4a2e-b09d-0acb68d88c3e
 connection_throttle_limit: 3
-log_pings: true
+groups: {}
+prevent_proxy_connections: false
