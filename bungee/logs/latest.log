@@ -115,3 +115,30 @@ Reason: Banned by an operator.
 Reason: Banned by an operator.
 [15:30:06] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:57694|pang69420] -> UpstreamBridge has disconnected
 [15:30:06] [Netty Worker IO Thread #0/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:57694] <-> ServerConnector [lobby] has disconnected
+[15:30:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52948]: Connected via websocket
+[15:30:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52948]: Origin header is http://localhost:8081
+[15:30:17] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52948]: Logged in as 'pang69420'
+[15:30:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52948|pang69420] -> UpstreamBridge has connected
+[15:30:17] [Netty Worker IO Thread #1/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:52948] <-> ServerConnector [lobby] has connected
+[15:30:17] [Netty Worker IO Thread #1/INFO]: [pang69420] disconnected with: Kicked whilst connecting to lobby: You are banned from this server!
+Reason: Banned by an operator.
+[15:30:17] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:52948|pang69420] -> UpstreamBridge has disconnected
+[15:30:17] [Netty Worker IO Thread #1/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:52948] <-> ServerConnector [lobby] has disconnected
+[15:30:24] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45356]: Connected via websocket
+[15:30:24] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45356]: Origin header is http://localhost:8081
+[15:30:24] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45356]: Logged in as 'pang69420'
+[15:30:24] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45356|pang69420] -> UpstreamBridge has connected
+[15:30:24] [Netty Worker IO Thread #2/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:45356] <-> ServerConnector [lobby] has connected
+[15:30:24] [Netty Worker IO Thread #2/INFO]: [pang69420] disconnected with: Kicked whilst connecting to lobby: You are banned from this server!
+Reason: Banned by an operator.
+[15:30:24] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:45356|pang69420] -> UpstreamBridge has disconnected
+[15:30:24] [Netty Worker IO Thread #2/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:45356] <-> ServerConnector [lobby] has disconnected
+[15:30:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41442]: Connected via websocket
+[15:30:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41442]: Origin header is http://localhost:8081
+[15:30:46] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41442]: Logged in as 'pang69420'
+[15:30:46] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:41442|pang69420] -> UpstreamBridge has connected
+[15:30:46] [Netty Worker IO Thread #3/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:41442] <-> ServerConnector [lobby] has connected
+[15:30:47] [Netty Worker IO Thread #3/INFO]: [pang69420] disconnected with: Kicked whilst connecting to lobby: You are banned from this server!
+Reason: Banned by an operator.
+[15:30:47] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:41442|pang69420] -> UpstreamBridge has disconnected
+[15:30:47] [Netty Worker IO Thread #3/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:41442] <-> ServerConnector [lobby] has disconnected

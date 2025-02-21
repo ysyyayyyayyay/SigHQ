@@ -1034,3 +1034,20 @@ Reason: Banned by an operator.
 Reason: Banned by an operator.
 [15:30:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bf10e5e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@85b4ef9], isEaglerPlayer=[com.mojang.authlib.properties.Property@7a8a360b]},legacy=false] (/[0:0:0:0:0:0:0:1]:33122) lost connection: You are banned from this server!
 Reason: Banned by an operator.
+[15:30:17] [Thread-16/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:30:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@cd2d4d7[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@61bd7d99], isEaglerPlayer=[com.mojang.authlib.properties.Property@7541a33c]},legacy=false] (/[0:0:0:0:0:0:0:1]:45600): You are banned from this server!
+Reason: Banned by an operator.
+[15:30:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@cd2d4d7[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@61bd7d99], isEaglerPlayer=[com.mojang.authlib.properties.Property@7541a33c]},legacy=false] (/[0:0:0:0:0:0:0:1]:45600) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:30:24] [Thread-17/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:30:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7a57dc3e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@472637c3], isEaglerPlayer=[com.mojang.authlib.properties.Property@3190b887]},legacy=false] (/[0:0:0:0:0:0:0:1]:43706): You are banned from this server!
+Reason: Banned by an operator.
+[15:30:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7a57dc3e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@472637c3], isEaglerPlayer=[com.mojang.authlib.properties.Property@3190b887]},legacy=false] (/[0:0:0:0:0:0:0:1]:43706): You are banned from this server!
+Reason: Banned by an operator.
+[15:30:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a57dc3e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@472637c3], isEaglerPlayer=[com.mojang.authlib.properties.Property@3190b887]},legacy=false] (/[0:0:0:0:0:0:0:1]:43706) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:30:46] [Thread-18/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:30:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6fe37996[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@3e82d739], isEaglerPlayer=[com.mojang.authlib.properties.Property@12f67762]},legacy=false] (/[0:0:0:0:0:0:0:1]:36534): You are banned from this server!
+Reason: Banned by an operator.
+[15:30:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fe37996[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@3e82d739], isEaglerPlayer=[com.mojang.authlib.properties.Property@12f67762]},legacy=false] (/[0:0:0:0:0:0:0:1]:36534) lost connection: You are banned from this server!
+Reason: Banned by an operator.
