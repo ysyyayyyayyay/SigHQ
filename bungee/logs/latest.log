@@ -70,3 +70,28 @@
 [14:32:10] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for iglentoften AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [14:32:10] [Netty Worker IO Thread #0/INFO]: [iglentoften] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [14:32:10] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41348|iglentoften] -> UpstreamBridge has disconnected
+[14:33:36] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38058]: Connected via websocket
+[14:33:36] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38058]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[14:33:37] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38058]: Logged in as 'iglentoften'
+[14:33:37] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:38058|iglentoften] -> UpstreamBridge has connected
+[14:33:37] [Netty Worker IO Thread #1/INFO]: [iglentoften|/[0:0:0:0:0:0:0:1%0]:38058] <-> ServerConnector [lobby] has connected
+[14:33:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49230]: Connected via websocket
+[14:33:44] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49230]: Origin header is http://localhost:8081
+[14:33:45] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:49230]: Logged in as 'pang69420'
+[14:33:45] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:49230|pang69420] -> UpstreamBridge has connected
+[14:33:45] [Netty Worker IO Thread #3/INFO]: [pang69420|/[0:0:0:0:0:0:0:1%0]:49230] <-> ServerConnector [lobby] has connected
+[14:33:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43330]: Connected via websocket
+[14:33:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43330]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[14:33:57] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:43330]: Logged in as 'ysyyayyyayya'
+[14:33:57] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:43330|ysyyayyyayya] -> UpstreamBridge has connected
+[14:33:57] [Netty Worker IO Thread #1/INFO]: [ysyyayyyayya|/[0:0:0:0:0:0:0:1%0]:43330] <-> ServerConnector [lobby] has connected
+[14:34:32] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39600]: Connected via websocket
+[14:34:32] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39600]: Origin header is https://nolanderlauncherdelta-ozj8.vercel.app
+[14:34:32] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39600]: Logged in as 'shmewy'
+[14:34:32] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:39600|shmewy] -> UpstreamBridge has connected
+[14:34:32] [Netty Worker IO Thread #2/INFO]: [shmewy|/[0:0:0:0:0:0:0:1%0]:39600] <-> ServerConnector [lobby] has connected
+[14:36:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45180]: Connected via websocket
+[14:36:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45180]: Origin header is https://reslauncher4.vercel.app
+[14:36:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45180]: Logged in as '7_ounces'
+[14:36:24] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:45180|7_ounces] -> UpstreamBridge has connected
+[14:36:24] [Netty Worker IO Thread #0/INFO]: [7_ounces|/[0:0:0:0:0:0:0:1%0]:45180] <-> ServerConnector [lobby] has connected
