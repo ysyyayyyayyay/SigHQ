@@ -343,3 +343,6 @@
 [14:01:38] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41808]: Logged in as 'xXAutistic_PigXx'
 [14:01:38] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41808|xXAutistic_PigXx] -> UpstreamBridge has connected
 [14:01:38] [Netty Worker IO Thread #0/INFO]: [xXAutistic_PigXx|/[0:0:0:0:0:0:0:1%0]:41808] <-> ServerConnector [lobby] has connected
+[14:06:19] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49420|iglentoften] -> UpstreamBridge has disconnected
+[14:06:19] [Netty Worker IO Thread #2/INFO]: [iglentoften] disconnected with: Proxy lost connection to server.
+[14:06:19] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49420|iglentoften] <-> DownstreamBridge <-> [lobby] has disconnected
