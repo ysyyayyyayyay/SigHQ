@@ -1051,3 +1051,320 @@ Reason: Banned by an operator.
 Reason: Banned by an operator.
 [15:30:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fe37996[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@3e82d739], isEaglerPlayer=[com.mojang.authlib.properties.Property@12f67762]},legacy=false] (/[0:0:0:0:0:0:0:1]:36534) lost connection: You are banned from this server!
 Reason: Banned by an operator.
+[15:31:19] [Thread-19/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[15:31:19] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:33744] logged in with entity id 13168 at ([world]80.30000001192093, 66.0, -2168.352361747251)
+[15:31:27] [Thread-20/INFO]: UUID of player shmewy is 6bbfd62a-11c5-3ebe-af17-977c16173e90
+[15:31:27] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:33544] logged in with entity id 13224 at ([world]-115.96007973372288, 21.0, 676.3450372811527)
+[15:31:57] [Thread-21/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:31:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@11a995b2[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@42953c82], isEaglerPlayer=[com.mojang.authlib.properties.Property@34fb833c]},legacy=false] (/[0:0:0:0:0:0:0:1]:59368): You are banned from this server!
+Reason: Banned by an operator.
+[15:31:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@11a995b2[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@42953c82], isEaglerPlayer=[com.mojang.authlib.properties.Property@34fb833c]},legacy=false] (/[0:0:0:0:0:0:0:1]:59368) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:31:59] [Server thread/INFO]: shmewy lost connection: Disconnected
+[15:31:59] [Server thread/INFO]: shmewy left the game.
+[15:32:09] [Thread-22/INFO]: UUID of player ysyyayyyayya is 6cd4e570-7a49-3521-8e89-4b4b5c6269c5
+[15:32:09] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:37168] logged in with entity id 13411 at ([world]-109.80319677375516, 79.00044113050673, 741.8678881971316)
+[15:32:16] [Thread-23/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:32:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1bde05e4[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@5a44fe25], isEaglerPlayer=[com.mojang.authlib.properties.Property@4175c7db]},legacy=false] (/[0:0:0:0:0:0:0:1]:57918): You are banned from this server!
+Reason: Banned by an operator.
+[15:32:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1bde05e4[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@5a44fe25], isEaglerPlayer=[com.mojang.authlib.properties.Property@4175c7db]},legacy=false] (/[0:0:0:0:0:0:0:1]:57918): You are banned from this server!
+Reason: Banned by an operator.
+[15:32:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bde05e4[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@5a44fe25], isEaglerPlayer=[com.mojang.authlib.properties.Property@4175c7db]},legacy=false] (/[0:0:0:0:0:0:0:1]:57918) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:32:40] [Server thread/INFO]: ysyyayyyayya issued server command: /tp iglentoften
+[15:32:40] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to iglentoften]
+[15:33:30] [Async Chat Thread - #6/INFO]: <iglentoften> thanks for the tnt[m
+
+[15:33:33] [Async Chat Thread - #6/INFO]: <ysyyayyyayya> yw[m
+
+[15:34:16] [Thread-24/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:34:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@d7f7c0e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@70f835c3], isEaglerPlayer=[com.mojang.authlib.properties.Property@9a099bf]},legacy=false] (/[0:0:0:0:0:0:0:1]:49130): You are banned from this server!
+Reason: Banned by an operator.
+[15:34:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@d7f7c0e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@70f835c3], isEaglerPlayer=[com.mojang.authlib.properties.Property@9a099bf]},legacy=false] (/[0:0:0:0:0:0:0:1]:49130) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:34:17] [Async Chat Thread - #6/INFO]: <ysyyayyyayya> oops[m
+
+[15:34:20] [Thread-25/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[15:34:20] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:49146] logged in with entity id 13903 at ([world]-201.03478264467705, 64.41999998688698, 427.7407245323047)
+[15:34:20] [Async Chat Thread - #6/INFO]: <iglentoften> bruh[m
+
+[15:34:24] [Async Chat Thread - #6/INFO]: <ysyyayyyayya> LOLLL[m
+
+[15:34:26] [Async Chat Thread - #6/INFO]: <iglentoften> that was me + bradleys base[m
+
+[15:34:33] [Async Chat Thread - #6/INFO]: <ysyyayyyayya> 4 u[m
+
+[15:34:35] [Async Chat Thread - #6/INFO]: <ysyyayyyayya> im sry[m
+
+[15:34:40] [Async Chat Thread - #6/INFO]: <iglentoften> give me stack of iron plz[m
+
+[15:34:45] [Thread-26/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[15:34:45] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:33748] logged in with entity id 14121 at ([world]-129.81537261448858, 11.0, 310.4713873430939)
+[15:34:52] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[15:34:52] [Server thread/INFO]: iglentoften left the game.
+[15:35:00] [Server thread/INFO]: ysyyayyyayya issued server command: /tp heybread
+[15:35:00] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to HeyBread]
+[15:35:50] [Server thread/INFO]: DoctorDoctorDoc issued server command: /tpa heybread
+[15:35:57] [Async Chat Thread - #7/INFO]: <HeyBread> landon[m
+
+[15:36:00] [Async Chat Thread - #7/INFO]: <HeyBread> why is there no anvils[m
+
+[15:36:10] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[15:36:10] [Server thread/INFO]: DoctorDoctorDoc left the game.
+[15:36:18] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[15:36:18] [Server thread/INFO]: HeyBread left the game.
+[15:36:19] [Thread-28/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[15:36:20] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:38324] logged in with entity id 14582 at ([world]-218.92314051745177, 56.0, 404.3327435498898)
+[15:37:05] [Thread-29/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[15:37:05] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:39672] logged in with entity id 14853 at ([world]-128.30000001192093, 11.0, 310.54658805566106)
+[15:37:11] [Async Chat Thread - #8/INFO]: <DoctorDoctorDoc> hi rayyan[m
+
+[15:37:17] [Async Chat Thread - #8/INFO]: <HeyBread> landon[m
+
+[15:37:23] [Async Chat Thread - #8/INFO]: <HeyBread> why cant i craft anvil[m
+
+[15:37:27] [Thread-30/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:37:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7dd5026[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@2aba17e3], isEaglerPlayer=[com.mojang.authlib.properties.Property@68637661]},legacy=false] (/[0:0:0:0:0:0:0:1]:35990): You are banned from this server!
+Reason: Banned by an operator.
+[15:37:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@7dd5026[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@2aba17e3], isEaglerPlayer=[com.mojang.authlib.properties.Property@68637661]},legacy=false] (/[0:0:0:0:0:0:0:1]:35990) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:37:30] [Thread-31/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:37:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5b015461[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@64d1d018], isEaglerPlayer=[com.mojang.authlib.properties.Property@5b46f9f5]},legacy=false] (/[0:0:0:0:0:0:0:1]:35992): You are banned from this server!
+Reason: Banned by an operator.
+[15:37:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b015461[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@64d1d018], isEaglerPlayer=[com.mojang.authlib.properties.Property@5b46f9f5]},legacy=false] (/[0:0:0:0:0:0:0:1]:35992) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:37:35] [Async Chat Thread - #8/INFO]: <HeyBread> LANDON[m
+
+[15:37:36] [Thread-32/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:37:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@20391de3[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@7d7b0de8], isEaglerPlayer=[com.mojang.authlib.properties.Property@14721f79]},legacy=false] (/[0:0:0:0:0:0:0:1]:49402): You are banned from this server!
+Reason: Banned by an operator.
+[15:37:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@20391de3[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@7d7b0de8], isEaglerPlayer=[com.mojang.authlib.properties.Property@14721f79]},legacy=false] (/[0:0:0:0:0:0:0:1]:49402): You are banned from this server!
+Reason: Banned by an operator.
+[15:37:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@20391de3[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@7d7b0de8], isEaglerPlayer=[com.mojang.authlib.properties.Property@14721f79]},legacy=false] (/[0:0:0:0:0:0:0:1]:49402) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:37:38] [Async Chat Thread - #8/INFO]: <HeyBread> U TOOK MY ANVIL[m
+
+[15:38:28] [Server thread/INFO]: HeyBread issued server command: /home obbi
+[15:39:09] [Server thread/INFO]: HeyBread issued server command: /back
+[15:39:12] [Server thread/INFO]: ysyyayyyayya issued server command: /tp heybread
+[15:39:12] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to HeyBread]
+[15:39:17] [Async Chat Thread - #9/INFO]: <ysyyayyyayya> wut u want?[m
+
+[15:40:02] [Server thread/INFO]: DoctorDoctorDoc has just earned the achievement [Monster Hunter]
+[15:40:13] [Server thread/INFO]: ysyyayyyayya issued server command: /tp doctordoctordoc
+[15:40:13] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to DoctorDoctorDoc]
+[15:40:18] [Async Chat Thread - #10/INFO]: <DoctorDoctorDoc> holy shit hi landon[m
+
+[15:40:24] [Async Chat Thread - #10/INFO]: <DoctorDoctorDoc> JUMPSCARE[m
+
+[15:40:27] [Server thread/INFO]: DoctorDoctorDoc has just earned the achievement [Cow Tipper]
+[15:40:27] [Server thread/INFO]: ysyyayyyayya issued server command: /kil doctordoctordoc
+[15:40:33] [Server thread/INFO]: ysyyayyyayya issued server command: /kill doctordoctordoc
+[15:40:33] [Server thread/INFO]: DoctorDoctorDoc fell out of the world
+[15:40:33] [Server thread/INFO]: [ysyyayyyayya: Killed DoctorDoctorDoc]
+[15:40:39] [Server thread/INFO]: DoctorDoctorDoc issued server command: /back
+[15:40:42] [Async Chat Thread - #10/INFO]: <DoctorDoctorDoc> WHYYYYYYYYYYYY[m
+
+[15:40:45] [Async Chat Thread - #10/INFO]: <DoctorDoctorDoc> WHYYYYYYY[m
+
+[15:40:48] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[15:40:48] [Server thread/INFO]: DoctorDoctorDoc left the game.
+[15:40:50] [Thread-33/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:40:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@16fcb3e1[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@34ee1b27], isEaglerPlayer=[com.mojang.authlib.properties.Property@6d061674]},legacy=false] (/[0:0:0:0:0:0:0:1]:55978): You are banned from this server!
+Reason: Banned by an operator.
+[15:40:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@16fcb3e1[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@34ee1b27], isEaglerPlayer=[com.mojang.authlib.properties.Property@6d061674]},legacy=false] (/[0:0:0:0:0:0:0:1]:55978) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:40:53] [Thread-34/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[15:40:53] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:55990] logged in with entity id 16269 at ([world]-218.67353529053713, 64.0, 568.2666411484173)
+[15:40:58] [Server thread/INFO]: ysyyayyyayya issued server command: /tp doctordoctordoc ysyyayyyayya
+[15:40:58] [Server thread/INFO]: [ysyyayyyayya: Teleported DoctorDoctorDoc to ysyyayyyayya]
+[15:41:03] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[15:41:03] [Server thread/INFO]: DoctorDoctorDoc left the game.
+[15:41:18] [Thread-35/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[15:41:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4db1dbfd[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@1905f8c4], isEaglerPlayer=[com.mojang.authlib.properties.Property@75e03340]},legacy=false] (/[0:0:0:0:0:0:0:1]:40680): You are banned from this server!
+Reason: Banned by an operator.
+[15:41:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@4db1dbfd[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@1905f8c4], isEaglerPlayer=[com.mojang.authlib.properties.Property@75e03340]},legacy=false] (/[0:0:0:0:0:0:0:1]:40680) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[15:41:20] [Server thread/INFO]: ysyyayyyayya issued server command: /tp heybread
+[15:41:20] [Server thread/INFO]: [ysyyayyyayya: Teleported ysyyayyyayya to HeyBread]
+[15:41:38] [Server thread/INFO]: ysyyayyyayya issued server command: /
+[15:41:38] [Async Chat Thread - #10/INFO]: <HeyBread> ????[m
+
+[15:41:46] [Async Chat Thread - #10/INFO]: <HeyBread> LEMME OUT[m
+
+[15:41:56] [Async Chat Thread - #10/INFO]: <HeyBread> stop trolling me bruh[m
+
+[15:42:12] [Server thread/INFO]: ysyyayyyayya issued server command: /tp heybread ysyyayyyayya
+[15:42:12] [Server thread/INFO]: [ysyyayyyayya: Teleported HeyBread to ysyyayyyayya]
+[15:42:17] [Server thread/INFO]: HeyBread issued server command: /home obbi
+[15:42:53] [Async Chat Thread - #10/INFO]: <ysyyayyyayya> i am the magical cow[m
+
+[15:43:00] [Async Chat Thread - #10/INFO]: <HeyBread> womp womp[m
+
+[15:43:00] [Async Chat Thread - #10/INFO]: <ysyyayyyayya> i will grant u any 1 wish[m
+
+[15:43:09] [Async Chat Thread - #10/INFO]: <ysyyayyyayya> i will grant u any 1 wish[m
+
+[15:43:15] [Async Chat Thread - #10/INFO]: <ysyyayyyayya> wut do u want?[m
+
+[15:43:32] [Async Chat Thread - #10/INFO]: <ysyyayyyayya> wut do u want?[m
+
+[15:43:34] [Async Chat Thread - #10/INFO]: <ysyyayyyayya> wut do u want?[m
+
+[15:44:02] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode spectator
+[15:44:02] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Spectator Mode]
+[15:45:00] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
+[15:45:05] [Server thread/INFO]: ysyyayyyayya issued server command: /plist
+[15:45:11] [Server thread/INFO]: ysyyayyyayya issued server command: /install adminfun
+[15:45:48] [Server thread/INFO]: ysyyayyyayya issued server command: /adminfun
+[15:45:51] [Server thread/INFO]: ysyyayyyayya issued server command: /help
+[15:46:03] [Server thread/INFO]: ysyyayyyayya issued server command: /help 2
+[15:46:18] [Server thread/INFO]: ysyyayyyayya issued server command: /help 3
+[15:46:28] [Thread-36/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[15:46:28] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:41934] logged in with entity id 16796 at ([world]-216.31187537058884, 64.0, 564.1120848105838)
+[15:46:41] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode c
+[15:46:41] [Server thread/INFO]: [ysyyayyyayya: Set own game mode to Creative Mode]
+[15:50:18] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458
+[15:50:46] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458 -109 84 429 diamondblock
+[15:50:46] [Server thread/INFO]: [ysyyayyyayya: There is no such block with name minecraft:diamondblock]
+[15:50:46] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[15:50:46] [Server thread/INFO]: HeyBread left the game.
+[15:50:50] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458 -109 84 429 diamondblock
+[15:50:50] [Server thread/INFO]: [ysyyayyyayya: There is no such block with name minecraft:diamondblock]
+[15:51:15] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458 -109 84 429 diamond_block
+[15:51:16] [Server thread/INFO]: [ysyyayyyayya: 15180 blocks filled]
+[15:51:47] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode * adventure
+[15:51:47] [Server thread/INFO]: [ysyyayyyayya: '*' is not a valid number]
+[15:51:52] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode @e adventure
+[15:51:52] [Server thread/INFO]: [ysyyayyyayya: '@e' is not a valid number]
+[15:52:05] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode doctordoctordoc a
+[15:52:05] [Server thread/INFO]: [ysyyayyyayya: 'doctordoctordoc' is not a valid number]
+[15:52:19] [Server thread/INFO]: ysyyayyyayya issued server command: /tp doctordoctordoc ysyyayyyayya
+[15:52:19] [Server thread/INFO]: [ysyyayyyayya: Teleported DoctorDoctorDoc to ysyyayyyayya]
+[15:52:27] [Async Chat Thread - #11/INFO]: <DoctorDoctorDoc> dont kill[m
+
+[15:52:29] [Async Chat Thread - #11/INFO]: <DoctorDoctorDoc> PLEASE[m
+
+[15:52:30] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[15:52:30] [Server thread/INFO]: DoctorDoctorDoc left the game.
+[15:52:31] [Async Chat Thread - #11/INFO]: <ysyyayyyayya> dont u dare take the dims[m
+
+[15:53:08] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458 -109 84 429 air
+[15:53:08] [Server thread/INFO]: [ysyyayyyayya: 15180 blocks filled]
+[15:53:28] [Thread-37/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[15:53:28] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:45804] logged in with entity id 18083 at ([world]-115.61788324911822, 85.0, 440.6967424189499)
+[15:53:48] [Async Chat Thread - #12/INFO]: <ysyyayyyayya> hi[m
+
+[15:53:48] [Async Chat Thread - #12/INFO]: <DoctorDoctorDoc> hi[m
+
+[15:53:54] [Async Chat Thread - #12/INFO]: <DoctorDoctorDoc> can i have diamonds?[m
+
+[15:53:55] [Async Chat Thread - #12/INFO]: <ysyyayyyayya> did u take any dims??[m
+
+[15:53:58] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458 -109 84 429 air
+[15:53:58] [Server thread/INFO]: [ysyyayyyayya: 660 blocks filled]
+[15:53:59] [Async Chat Thread - #12/INFO]: <DoctorDoctorDoc> no ofc not[m
+
+[15:54:09] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458 -109 84 429 diamond_block
+[15:54:09] [Server thread/INFO]: [ysyyayyyayya: 15180 blocks filled]
+[15:54:11] [Async Chat Thread - #12/INFO]: <DoctorDoctorDoc> cants[m
+
+[15:54:17] [Server thread/INFO]: ysyyayyyayya issued server command: /fill -130 62 458 -109 84 429 air
+[15:54:17] [Server thread/INFO]: [ysyyayyyayya: 15180 blocks filled]
+[15:54:27] [Async Chat Thread - #12/INFO]: <ysyyayyyayya> good?[m
+
+[15:54:47] [Async Chat Thread - #12/INFO]: <DoctorDoctorDoc> cant u like see my invernotry or smth?[m
+
+[15:54:58] [Async Chat Thread - #12/INFO]: <ysyyayyyayya> no[m
+
+[15:55:04] [Server thread/INFO]: ysyyayyyayya issued server command: /inventory doctordoctordoc
+[15:55:42] [Server thread/INFO]: ysyyayyyayya issued server command: /see inventory doctordoctordoc
+[15:56:07] [Server thread/INFO]: ysyyayyyayya issued server command: /tp doctordoctordoc ysyyayyyayya
+[15:56:07] [Server thread/INFO]: [ysyyayyyayya: Teleported DoctorDoctorDoc to ysyyayyyayya]
+[15:56:11] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> TF[m
+
+[15:56:17] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> TROLLL[m
+
+[15:56:24] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> pls stop[m
+
+[15:56:39] [Server thread/INFO]: ysyyayyyayya issued server command: /give doctordoctordoc bedrock
+[15:56:39] [Server thread/INFO]: [ysyyayyyayya: Given [Bedrock] * 1 to DoctorDoctorDoc]
+[15:56:41] [Server thread/INFO]: ysyyayyyayya issued server command: /give doctordoctordoc bedrock
+[15:56:41] [Server thread/INFO]: [ysyyayyyayya: Given [Bedrock] * 1 to DoctorDoctorDoc]
+[15:56:48] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> check ur inv[m
+
+[15:57:06] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> i dont see anything[m
+
+[15:57:09] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> what did u take/[m
+
+[15:57:17] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> i gave u bedrock[m
+
+[15:57:21] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> i gave u bedrock[m
+
+[15:57:22] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> i gave u bedrock[m
+
+[15:57:27] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> YOOOOOOOOOO[m
+
+[15:57:35] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> why?[m
+
+[15:57:38] [Server thread/INFO]: ysyyayyyayya issued server command: /r idk
+[15:57:41] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> idk[m
+
+[15:57:46] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> now give them back[m
+
+[15:57:46] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> k then :)[m
+
+[15:58:09] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> here[m
+
+[15:58:13] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> here[m
+
+[15:58:20] [Server thread/INFO]: ysyyayyyayya issued server command: /tp doctordoctordoc ysyyayyyayya
+[15:58:20] [Server thread/INFO]: [ysyyayyyayya: Teleported DoctorDoctorDoc to ysyyayyyayya]
+[15:58:26] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> take it[m
+
+[15:58:29] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> WHYYYYYY????????[m
+
+[15:58:35] [Async Chat Thread - #13/INFO]: <ysyyayyyayya> idk[m
+
+[15:58:42] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> ykw like a stack of steak is more useful rn :)[m
+
+[15:58:44] [Server thread/INFO]: ysyyayyyayya issued server command: /summon lightning
+[15:58:44] [Server thread/WARN]: Skipping Entity with id lightning
+[15:58:44] [Server thread/INFO]: [ysyyayyyayya: Unable to summon object]
+[15:58:48] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> like i can only spawn 1 cow[m
+
+[15:59:00] [Async Chat Thread - #13/INFO]: <DoctorDoctorDoc> yo thanks[m
+
+[15:59:48] [Server thread/INFO]: ysyyayyyayya issued server command: /smite ysyyayyyayya
+[15:59:54] [Server thread/INFO]: ysyyayyyayya issued server command: /summon lightning
+[15:59:54] [Server thread/WARN]: Skipping Entity with id lightning
+[15:59:54] [Server thread/INFO]: [ysyyayyyayya: Unable to summon object]
+[15:59:58] [Server thread/INFO]: ysyyayyyayya issued server command: /summon lightning @p
+[15:59:58] [Server thread/WARN]: Skipping Entity with id lightning
+[15:59:58] [Server thread/INFO]: [ysyyayyyayya: Unable to summon object]
+[16:00:15] [Thread-38/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[16:00:15] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:50766] logged in with entity id 19540 at ([world]96.77551397566006, 68.0, -2183.8323811233136)
+[16:00:24] [Server thread/INFO]: ysyyayyyayya issued server command: /summon lightning_bolt
+[16:00:24] [Server thread/WARN]: Skipping Entity with id lightning_bolt
+[16:00:24] [Server thread/INFO]: [ysyyayyyayya: Unable to summon object]
+[16:00:32] [Server thread/INFO]: ysyyayyyayya issued server command: /summon lightning_bolt -66 76 324
+[16:00:32] [Server thread/WARN]: Skipping Entity with id lightning_bolt
+[16:00:32] [Server thread/INFO]: [ysyyayyyayya: Unable to summon object]
+[16:00:41] [Server thread/INFO]: ysyyayyyayya issued server command: /summon zombie -66 76 324
+[16:00:41] [Server thread/WARN]: Skipping Entity with id zombie
+[16:00:41] [Server thread/INFO]: [ysyyayyyayya: Unable to summon object]
+[16:00:45] [Server thread/INFO]: ysyyayyyayya issued server command: /summon zombie -66 76 324
+[16:00:45] [Server thread/WARN]: Skipping Entity with id zombie
+[16:00:45] [Server thread/INFO]: [ysyyayyyayya: Unable to summon object]
+[16:00:57] [Thread-39/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[16:00:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@41608d63[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@1c1a5ad4], isEaglerPlayer=[com.mojang.authlib.properties.Property@67c871fb]},legacy=false] (/[0:0:0:0:0:0:0:1]:57702): You are banned from this server!
+Reason: Banned by an operator.
+[16:00:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@41608d63[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@1c1a5ad4], isEaglerPlayer=[com.mojang.authlib.properties.Property@67c871fb]},legacy=false] (/[0:0:0:0:0:0:0:1]:57702) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[16:01:13] [Thread-40/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[16:01:13] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6388cb6e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@58c05d71], isEaglerPlayer=[com.mojang.authlib.properties.Property@6a5f4970]},legacy=false] (/[0:0:0:0:0:0:0:1]:49884): You are banned from this server!
+Reason: Banned by an operator.
+[16:01:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@6388cb6e[id=95e2d86c-e819-323a-8b8f-53e8ea92164e,name=pang69420,properties={textures=[com.mojang.authlib.properties.Property@58c05d71], isEaglerPlayer=[com.mojang.authlib.properties.Property@6a5f4970]},legacy=false] (/[0:0:0:0:0:0:0:1]:49884) lost connection: You are banned from this server!
+Reason: Banned by an operator.
+[16:01:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
