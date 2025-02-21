@@ -237,3 +237,78 @@
 [12:13:02] [Server thread/INFO]: ysyyayyyayya[/[0:0:0:0:0:0:0:1]:43940] logged in with entity id 1488 at ([world]-203.5, 77.0, 255.5)
 [12:13:24] [Server thread/INFO]: ysyyayyyayya issued server command: /gamemode c
 [12:13:32] [Server thread/INFO]: ysyyayyyayya has just earned the achievement [Taking Inventory]
+[12:15:00] [Server thread/INFO]: ysyyayyyayya has just earned the achievement [Getting Wood]
+[12:18:04] [Thread-9/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[12:18:04] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:58030] logged in with entity id 2653 at ([world]-187.5, 70.0, 246.5)
+[12:18:13] [Thread-10/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[12:18:13] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:58042] logged in with entity id 2777 at ([world]-203.5, 77.0, 251.5)
+[12:18:24] [Server thread/INFO]: ysyyayyyayya issued server command: /spawn
+[12:19:30] [Server thread/INFO]: HeyBread has just earned the achievement [Taking Inventory]
+[12:19:30] [Server thread/INFO]: HeyBread has just earned the achievement [Getting Wood]
+[12:19:37] [Server thread/INFO]: HeyBread has just earned the achievement [Benchmarking]
+[12:20:01] [Server thread/INFO]: HeyBread has just earned the achievement [Time to Mine!]
+[12:20:08] [Server thread/INFO]: iglentoften has just earned the achievement [Taking Inventory]
+[12:20:12] [Thread-11/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[12:20:12] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:40286] logged in with entity id 3508 at ([world]-192.5, 73.0, 247.5)
+[12:20:40] [Server thread/INFO]: HeyBread has just earned the achievement [Time to Strike!]
+[12:20:50] [Server thread/INFO]: DoctorDoctorDoc has just earned the achievement [Taking Inventory]
+[12:20:51] [Server thread/INFO]: HeyBread has just earned the achievement [Getting an Upgrade]
+[12:20:55] [Server thread/INFO]: iglentoften has just earned the achievement [Getting Wood]
+[12:20:59] [Thread-12/INFO]: UUID of player shmewy is 6bbfd62a-11c5-3ebe-af17-977c16173e90
+[12:20:59] [Server thread/INFO]: shmewy[/[0:0:0:0:0:0:0:1]:39124] logged in with entity id 4136 at ([world]-194.5, 70.0, 241.5)
+[12:21:06] [Server thread/INFO]: HeyBread lost connection: Disconnected
+[12:21:06] [Server thread/INFO]: HeyBread left the game.
+[12:21:10] [Server thread/INFO]: ysyyayyyayya lost connection: Disconnected
+[12:21:10] [Server thread/INFO]: ysyyayyyayya left the game.
+[12:21:13] [Async Chat Thread - #0/INFO]: <shmewy> gyatt[m
+
+[12:21:19] [Server thread/INFO]: DoctorDoctorDoc lost connection: Disconnected
+[12:21:19] [Server thread/INFO]: DoctorDoctorDoc left the game.
+[12:21:25] [Server thread/INFO]: shmewy lost connection: Disconnected
+[12:21:25] [Server thread/INFO]: shmewy left the game.
+[12:21:50] [Server thread/INFO]: iglentoften lost connection: Disconnected
+[12:21:50] [Server thread/INFO]: iglentoften left the game.
+[12:25:08] [Thread-13/INFO]: UUID of player DoctorDoctorDoc is 7d2e54b2-4ee3-3e32-9a10-89a0004558a0
+[12:25:08] [Server thread/INFO]: DoctorDoctorDoc[/[0:0:0:0:0:0:0:1]:49488] logged in with entity id 4468 at ([world]-163.1458591260023, 64.0, 225.2898121441602)
+[12:25:22] [Server thread/INFO]: DoctorDoctorDoc has just earned the achievement [Getting Wood]
+[12:26:35] [Thread-14/INFO]: UUID of player HeyBread is 6b3d7afd-3b1d-39dc-a095-3e261a0d9f09
+[12:26:35] [Server thread/INFO]: HeyBread[/[0:0:0:0:0:0:0:1]:33664] logged in with entity id 4562 at ([world]-235.54039550888774, 81.0, 253.14231094330697)
+[12:26:57] [Thread-15/INFO]: UUID of player iglentoften is 1f39864e-1ba8-32ee-b3a0-299113502435
+[12:26:57] [Server thread/INFO]: iglentoften[/[0:0:0:0:0:0:0:1]:48538] logged in with entity id 4652 at ([world]-168.97835880821876, 64.0, 215.47077228691097)
+[12:27:07] [Async Chat Thread - #1/INFO]: <iglentoften> bruh[m
+
+[12:27:15] [Thread-16/INFO]: UUID of player pang69420 is 95e2d86c-e819-323a-8b8f-53e8ea92164e
+[12:27:15] [Server thread/INFO]: pang69420[/[0:0:0:0:0:0:0:1]:40044] logged in with entity id 4738 at ([world]-199.5, 75.0, 247.5)
+[12:27:26] [Server thread/INFO]: HeyBread has just earned the achievement [Monster Hunter]
+[12:27:26] [Server thread/INFO]: pang69420 has just earned the achievement [Taking Inventory]
+[12:27:30] [Async Chat Thread - #1/INFO]: <iglentoften> wild[m
+
+[12:27:38] [Async Chat Thread - #1/INFO]: <pang69420> DUDREEWWW[m
+
+[12:28:17] [Thread-17/INFO]: UUID of player 7_ounces is 8c7dbc19-90af-3fef-966e-e64b9815e663
+[12:28:17] [Server thread/INFO]: 7_ounces[/[0:0:0:0:0:0:0:1]:46946] logged in with entity id 5039 at ([world]-201.5, 77.0, 251.5)
+[12:28:22] [Async Chat Thread - #1/INFO]: <iglentoften> is that casi[m
+
+[12:28:25] [Async Chat Thread - #1/INFO]: <iglentoften> caasi[m
+
+[12:28:26] [Server thread/INFO]: HeyBread has just earned the achievement [Hot Topic]
+[12:28:29] [Async Chat Thread - #1/INFO]: <DoctorDoctorDoc> yoooo isaac joseph is IN[m
+
+[12:28:33] [Async Chat Thread - #1/INFO]: <pang69420> bro its so dark i cant see s.hit[m
+
+[12:28:43] [Async Chat Thread - #1/INFO]: <iglentoften> i have so much meat[m
+
+[12:28:44] [Async Chat Thread - #1/INFO]: <pang69420> WHO IS 7 OUNCES[m
+
+[12:28:47] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[12:28:50] [Async Chat Thread - #1/INFO]: <DoctorDoctorDoc> hi[m
+
+[12:28:51] [Server thread/INFO]: pang69420 has just earned the achievement [Getting Wood]
+[12:28:52] [Server thread/INFO]: iglentoften was slain by DoctorDoctorDoc
+[12:28:53] [Async Chat Thread - #1/INFO]: <7_ounces> nah bro im the better isaac[m
+
+[12:28:58] [Async Chat Thread - #1/INFO]: <HeyBread> damnnnn[m
+
+[12:28:58] [Async Chat Thread - #1/INFO]: <DoctorDoctorDoc> lol[m
+
