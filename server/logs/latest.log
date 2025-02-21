@@ -1,8 +1,8 @@
-[14:15:19] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[14:15:19] [Server thread/INFO]: Loading properties
-[14:15:19] [Server thread/INFO]: Default game type: SURVIVAL
-[14:15:20] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[14:15:20] [Server thread/ERROR]: Encountered an unexpected exception
+[14:19:28] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[14:19:28] [Server thread/INFO]: Loading properties
+[14:19:28] [Server thread/INFO]: Default game type: SURVIVAL
+[14:19:29] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[14:19:29] [Server thread/ERROR]: Encountered an unexpected exception
 java.lang.NullPointerException: Cannot invoke "net.minecraft.server.v1_8_R3.JsonListEntry.getKey()" because "jsonlistentry" is null
 	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:195) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.z(SourceFile:99) ~[patched_1.8.8.jar:git-PaperSpigot-445]
@@ -10,5 +10,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.v1_8_R3.Json
 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:176) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563) ~[patched_1.8.8.jar:git-PaperSpigot-445]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
-[14:15:20] [Server thread/ERROR]: This crash report has been saved to: /workspaces/SigHQ/server/./crash-reports/crash-2025-02-21_14.15.20-server.txt
-[14:15:20] [Server thread/INFO]: Stopping server
+[14:19:29] [Server thread/ERROR]: This crash report has been saved to: /workspaces/SigHQ/server/./crash-reports/crash-2025-02-21_14.19.29-server.txt
+[14:19:29] [Server thread/INFO]: Stopping server
